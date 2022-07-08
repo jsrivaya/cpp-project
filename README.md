@@ -93,7 +93,7 @@ Click the `Use this template` button to make a new repository from this template
 When starting a new project, you probably don't want the history of this repository. To start fresh you can use
 the [setup script](setup.sh) as follows:
 ``` bash
-> git clone https://github.com/bsamseth/cpp-project  # Or use ssh-link if you like.
+> git clone https://github.com/jsrivaya/cpp-project  # Or use ssh-link if you like.
 > cd cpp-project
 > bash setup.sh
 ```
